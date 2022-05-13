@@ -6,7 +6,7 @@
 ./m2c.sh <movie clip> [width height]
 ```
 where
-- `<movie clip>` is filename of the video to be converted
+- `<movie clip>` is the filename of a video clip to be converted
 - `width` (defaults to 4) is an optional parameter affecting the number of tile along the **horizontal** dimension in the resulting collage
 - `height` (defaults to 3) is an optional parameter affecting the number of tiles along the **vertical** dimension
 
