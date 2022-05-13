@@ -7,7 +7,7 @@
 ```
 where
 - `<movie clip>` is the filename of a video clip to be converted
-- `width` (defaults to 4) is an optional parameter affecting the number of tile along the **horizontal** dimension in the resulting collage
+- `width` (defaults to 4) is an optional parameter affecting the number of tiles along the **horizontal** dimension in the resulting collage
 - `height` (defaults to 3) is an optional parameter affecting the number of tiles along the **vertical** dimension
 
 The resulting collage will be saved into a file named after original clip with `.jpg` extension.
